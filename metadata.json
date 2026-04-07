@@ -1,5 +1,0 @@
-{
-  "name": "QuantumOrbital",
-  "description": "An interactive 3D visualization of Hydrogen atom wavefunctions. Explore electron orbitals by adjusting quantum numbers (n, l, m) and learn about their properties with a built-in AI physics tutor powered by Gemini.",
-  "requestFramePermissions": []
-}
